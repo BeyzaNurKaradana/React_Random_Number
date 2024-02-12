@@ -18,7 +18,7 @@ function App() {
         <p>Max:</p>
         <input type="number" />
       </div>
-      <Button variant="primary">Get Random Number</Button>
+      <Button className="mt-4" variant="primary">Get Random Number</Button>
     </Container>
   );
 }
